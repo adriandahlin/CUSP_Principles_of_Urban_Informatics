@@ -17,4 +17,4 @@ I did steps 6-8 on my own.
 
 Step 8 says to upload "screenshots" but I only caught one request for a screenshot, showing the output of the alias.
 
-![Alt text](https://github.com/adriandahlin/PUI2016_akd361/blob/master/Screenshot%202016-09-12%2011.55.03.png/relative/path/to/img.jpg?raw=true "Successful Alias")
+![Alt text](https://github.com/adriandahlin/PUI2016_akd361/blob/master/Screenshot%202016-09-12%2011.55.03.png "Successful Alias")
