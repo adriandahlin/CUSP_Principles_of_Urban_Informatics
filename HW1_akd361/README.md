@@ -14,3 +14,6 @@ Danny helped me create the alias for assigment two.
 I had reached a snag when I didn't put a period before "bashrc".
 
 I did steps 6-8 on my own.
+
+Step 8 says to upload "screenshots" but I only caught one request for a screenshot, showing the output of the alias.
+
