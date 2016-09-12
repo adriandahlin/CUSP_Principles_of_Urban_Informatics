@@ -16,8 +16,8 @@ I had reached a snag when I didn't put a period before "bashrc".
 I did steps 6-8 on my own.
 
 Work on setting up alias:
-https://github.com/adriandahlin/PUI2016_akd361/blob/master/Screenshot%202016-09-12%2012.43.07.png
-https://github.com/adriandahlin/PUI2016_akd361/blob/master/Screenshot%202016-09-12%2012.42.33.png
+![Alt text] (https://github.com/adriandahlin/PUI2016_akd361/blob/master/Screenshot%202016-09-12%2012.43.07.png "Alias work screenshot 1")
+![Alt text] (https://github.com/adriandahlin/PUI2016_akd361/blob/master/Screenshot%202016-09-12%2012.42.33.png "Alias work screenshot 2")
 
 The successful pui2016 alias:
 ![Alt text](https://github.com/adriandahlin/PUI2016_akd361/blob/master/Screenshot%202016-09-12%2011.55.03.png "Successful Alias")
