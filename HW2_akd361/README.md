@@ -14,4 +14,12 @@ Used an iterator to give the bus a number label.
 
 I needed help on this one so I didn't help anyone else.
 
-Ben Miller answered a quick question too.
+Ben Miller answered a quick question on Assignment 1 too.
+
+------------------------------------------------------------------------------------------------------------------
+
+I was able to handle Assignment 2 mostly on my own, with a little help from Rich Vecsler and Francis Ko.
+
+Copied lots of code from show_bus_locations. Imported CSV module. Added an additional sys.argv for the csv. Used if not length command to make sure the user has supplied all needed inputs.
+
+Using Federica's instructions for writing to a CSV as well as some guidance from Rich on syntax, I had the script open the csv in write mode and write the first row with the labels Latitude, Longitude, Stop Name, and Stop Status. Rich explained using fout.writerow to write to the csv.
