@@ -22,6 +22,8 @@ I was able to handle Assignment 2 mostly on my own, with a little help from Rich
 
 Copied lots of code from show_bus_locations. Imported CSV module. Added an additional sys.argv for the csv. Used if not length command to make sure the user has supplied all needed inputs.
 
+Francis pointed me toward the right data names in the MTA data, which I could also figure out when looking through the data on Postman.
+
 Using Federica's instructions for writing to a CSV as well as some guidance from Rich on syntax, I had the script open the csv in write mode and write the first row with the labels Latitude, Longitude, Stop Name, and Stop Status. Rich explained using fout.writerow to write to the csv. Then added fout.writerow to the for loop instead of the print function from assignment 1. This simply needed the variable names.
 
 I then helped Alexey Kalinin with the step of writing to a csv using fout commands. His code looked good, but he was getting an error with his sys.argv[3] that we couldn't figure out.
