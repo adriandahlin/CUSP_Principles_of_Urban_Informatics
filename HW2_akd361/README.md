@@ -30,6 +30,8 @@ I then helped Alexey Kalinin with the step of writing to a csv using fout comman
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Laura Gladson helped me with Assignment 3. She explained how to get the correct extension for the dataset (/avwq-z233/1414245694/avwq-z233) using ls in compute.
+Laura Gladson helped me and Alexey with Assignment 3. She explained how to get the correct extension for the dataset (/avwq-z233/1414245694/avwq-z233) using ls in compute.
 
-She also helped with plt commands. I figured out the legend command and passed that along to Laura. She showed me how to use <dataframe_name>.head() to show just the first few rows.
+She showed me how to use <dataframe_name>.head() to show just the first few rows. She also helped by showing me and Alexey what the plt commands are. I figured out the legend command and passed that along to Laura and Alexey.
+
+The dataset I chose (Current Medallions) was a little unfortunate. The only two numerical columns were not related (model year and medallion agent number). Would have been more interesting to pick two variables that were correlated. If I had more time I'd pick different data, but it's too close to the deadline to go back now.
