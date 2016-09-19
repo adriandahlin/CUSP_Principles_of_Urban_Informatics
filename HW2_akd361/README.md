@@ -27,3 +27,9 @@ Francis pointed me toward the right data names in the MTA data, which I could al
 Using Federica's instructions for writing to a CSV as well as some guidance from Rich on syntax, I had the script open the csv in write mode and write the first row with the labels Latitude, Longitude, Stop Name, and Stop Status. Rich explained using fout.writerow to write to the csv. Then added fout.writerow to the for loop instead of the print function from assignment 1. This simply needed the variable names.
 
 I then helped Alexey Kalinin with the step of writing to a csv using fout commands. His code looked good, but he was getting an error with his sys.argv[3] that we couldn't figure out.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Laura Gladson helped me with Assignment 3. She explained how to get the correct extension for the dataset (/avwq-z233/1414245694/avwq-z233) using ls in compute.
+
+She also helped with plt commands. I figured out the legend command and passed that along to Laura. She showed me how to use <dataframe_name>.head() to show just the first few rows.
