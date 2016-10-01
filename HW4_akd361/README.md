@@ -1,4 +1,8 @@
+Assignment 1
 
+Assignment 2
+
+Worked with Victor (vsg247) and Rich (rav220). This assignment was pretty straightforward once we found a study that used a chi square test and had easily readible results. We did debate one thing: whether the dependent variable was categorical or continuous. It's expressed in Figure 4 as a percentage (of horses studied who had aggressive behavior), which seems continuous, but ultimately we agreed that they really were measuring a binary variable: either the horse displayed aggressive behavior or they didn't (aggressive incidents > 0).
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
