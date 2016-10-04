@@ -17,5 +17,6 @@ multiple regression	| 17 "exploratory" variables in four groups: socioeconomic, 
 
 ** Because of scheduling I had to do assignments 3 and 4 on my own, and I couldn't quite get 100% of the way there without help. **
 
-Assignment 3
+Assignment 3: Worked alone on attached Jupyter Notebook.
 
+Assignment 4: Was pretty lost and ran out of time before the midnight deadline.
