@@ -21,4 +21,4 @@ Assignment 3: Worked alone on attached Jupyter Notebook.
 
 Assignment 4: Was pretty lost and ran out of time before the midnight deadline.
 
-** This was a very long set of assignments. Easily took as much time as my other three classes combined this week. Doesn't feel like the learning is matching the time spent on assignments. **
+** This was a long set of assignments. Easily took as much time as my other three classes combined this week. Overall doesn't feel like the learning in this class is matching the time spent on assignments. **
