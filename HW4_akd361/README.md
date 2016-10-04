@@ -14,3 +14,8 @@ chi-square	| 1, vertebral pain; two categories: 0-1 affected vertebrae vs 2+ aff
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 multiple regression	| 17 "exploratory" variables in four groups: socioeconomic, health, enviroment, political/social; corruption was the variable of greatest interest, while the others were "adjustment variables" | mostly continuous; corruption is categorical (0-10), some others may be categorical | 1: under 5 child mortality per 1000 live births | continuous | there isn't a control exactly, but the adjustment variables show the importance of the corruption problem relative to other factors that affect childhood mortality | N/A | Does higher corruption increase a country's childhood mortality? | Countries with higher Corruption Perception Index have equivalent or fewer deaths of children under 5 per 1000 live births compared with countries with lower CPI. | .05 for the first step, .01 for the second step | [Corruption Kills: Estimating the Global Impact of Corruption on Children Deaths](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026990) |
   |||||||||
+
+** Because of scheduling I had to do assignments 3 and 4 on my own, and I couldn't quite get 100% of the way there without help. **
+
+Assignment 3
+
