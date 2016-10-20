@@ -1,6 +1,6 @@
 Question 1
 
-Didn't work in a group but asked classmates for fixes at several points. Ian Wright, Scott Smith, Maisha Lopez, and others helped. Got the chi-squared test methodology from Maisha.
+Didn't work in a group but asked classmates for fixes at several points. Ian Wright, Scott Smith, Maisha Lopez, and others helped.
 
 
 Question 2
