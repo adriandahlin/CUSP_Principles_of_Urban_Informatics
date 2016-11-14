@@ -1,6 +1,6 @@
 This is my review of Felipe's plot exercise.
 
-![image of Felipe's plot](/PUI2016_akd361/HW8_akd361/Felipe's Plot.png?raw=true "Felipe's Plot")
+![image of Felipe's plot](/HW8_akd361/Felipe's Plot.png?raw=true "Felipe's Plot")
 
 Impressive analysis!
 
