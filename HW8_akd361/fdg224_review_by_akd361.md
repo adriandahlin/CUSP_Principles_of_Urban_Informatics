@@ -12,6 +12,8 @@ The charts in the middle are very hard to understand. I still don't get what the
 ## AESTHETICS
 It's simple. No complaints on the visuals. Time of day visualization is very effective. I think the graphic needs to clarify which subway line it depicts.
 
+The addition of the subway map was very helpful.
+
 ## HONESTY
 I can't really comment on the honesty of the middle two charts, since I don't understand them. Actually, lack of clarity is a form of dishonesty, if it's possible you might mislead people.
 
