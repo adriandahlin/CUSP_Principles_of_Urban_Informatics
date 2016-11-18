@@ -1,1 +1,1 @@
-I got help from Jordan Vani, jmv423.
+I got help from Jordan Vani (jmv423) and Danny Fay (df1383). On each step, I attempted to do it on my own and then used one of their methods if necessary. I cited them in the notebook. Worked on this a little with Anastasia Shegay.
