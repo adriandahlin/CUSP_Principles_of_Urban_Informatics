@@ -1,5 +1,4 @@
-I did this assignment on my own with one set of code borrowed from Avikal Somvanshi:
-how to select certain months from the year-round dataset.
+I did this assignment on my own with one set of code borrowed from Avikal Somvanshi: how to select certain months from the year-round dataset and create a new reduced dataframe.
 
 ANALYSIS:
 
