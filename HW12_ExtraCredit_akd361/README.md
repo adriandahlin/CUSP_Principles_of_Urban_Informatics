@@ -1,1 +1,1 @@
-Nicola helped with creating x and Y coordinates for centroids from the polygon column.
+Worked with Geoff Perrin, Chris Streich, and Nicola. Nicola helped with creating x and Y coordinates for centroids from the polygon column. Geoff helped with SQL. I passed along plotting stuff to Chris.
